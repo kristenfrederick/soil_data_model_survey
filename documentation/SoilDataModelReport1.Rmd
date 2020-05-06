@@ -170,6 +170,7 @@ Below is a brief summary of the individual study features that were immediately 
 
   - Common features
     + location, elevation, and observation time
+    + pH
     + depth of core and layer
     + bulk density
     + vegitation
@@ -191,6 +192,7 @@ Below is a brief summary of the individual study features that were immediately 
 
   - Common features
     + location, elevation, and observation time
+    + pH
     + depth of core and layer
     + bulk density
     + vegitation
@@ -208,6 +210,19 @@ Below is a brief summary of the individual study features that were immediately 
 ## Crowther
 
 ## vanGestel
+
+- Common features
+    + location, elevation, and observation time
+    + pH
+    + bulk density
+
+  - Unique features
+    + mean depth instead of depth of core and layer
+    + carbon, nitrogen, and phosphorus pools above and below ground
+    + treatments and information about treatments (mean, standard error, size)
+    + 'input' variable
+    + soil horizon and percent soil organic matter
+    
 
 # Next steps
 
