@@ -1,6 +1,6 @@
 ---
 title: "Inital soil data model summary"
-author: "L Heran, K Fredrickson, M Younger, K Todd-Brown (ktoddbrown@ufl.edu)"
+author: "L Heran, K Fredrick, M Younger, K Todd-Brown (ktoddbrown@ufl.edu)"
 date: "5/1/2020"
 output: 
   html_document: 
